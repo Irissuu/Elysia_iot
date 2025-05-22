@@ -1,6 +1,6 @@
 # ElysiaAPI 📱🏍️
 
-Projeto de **Visão Computacional** desenvolvido com **Python** e **YOLOv8**, focado na detecção automática de **vagas ocupadas e vagas livres** em estacionamentos, com base em um vídeo simulado com visão aérea. Este protótipo serve como uma prova de conceito para resolver o problema de controle e monitoramento de pátios, como o da empresa **Mottu**.
+Projeto de **Visão Computacional** desenvolvido com **Roboflow**, **Python** e **YOLOv8**. Focado na detecção automática de **vagas ocupadas e vagas livres** em estacionamentos, com base em um vídeo simulado com visão aérea. Este protótipo serve como uma prova de conceito para resolver o problema de controle e monitoramento de pátios, como o da empresa **Mottu**.
 
 ---
 
