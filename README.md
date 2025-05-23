@@ -13,7 +13,7 @@ Projeto de **Visão Computacional** desenvolvido com **Roboflow**, **Python** e 
 
 ## 🎬 Vídeo
 
-> <a href="">Vídeo</a>
+> <a href="https://youtu.be/i9E8NK1MNKY?si=G1q5RQ9WXnUaV2jG">Vídeo pitch</a>
 ---
 
 ## ⚙️ Tecnologias Utilizadas
