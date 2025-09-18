@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['motorcycle']
+
+roboflow:
+  workspace: tds-vuvak
+  project: motorcycle-1uawq-zm2a4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tds-vuvak/motorcycle-1uawq-zm2a4/dataset/1
