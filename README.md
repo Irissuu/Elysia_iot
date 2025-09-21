@@ -1,7 +1,12 @@
-# ElysiaAPI 📱🏍️
+ElysiaAPI 🚗🏍️
 
-Projeto de **Visão Computacional** desenvolvido com **Roboflow**, **Python** e **YOLOv8**. Focado na detecção automática de **vagas ocupadas e vagas livres** em estacionamentos, com base em um vídeo simulado com visão aérea. Este protótipo serve como uma prova de conceito para resolver o problema de controle e monitoramento de pátios, como o da empresa **Mottu**.
+Projeto de Visão Computacional desenvolvido com Roboflow, Python e YOLOv8.
+O sistema possui dois modelos de detecção:
 
+- Vagas ocupadas e vagas livres → baseado em um vídeo simulado com visão aérea de estacionamento.
+- Motos → identificação automática de motocicletas em vídeos, permitindo contabilizar e monitorar a ocupação do pátio.
+
+Este protótipo serve como uma prova de conceito para aprimorar o controle e monitoramento de estacionamentos e pátios, ajudando na gestão inteligente das vagas e dos veículos.
 ---
 
 ## 👥 Integrantes
@@ -13,7 +18,7 @@ Projeto de **Visão Computacional** desenvolvido com **Roboflow**, **Python** e 
 
 ## 🎬 Vídeo
 
-> <a href="https://youtu.be/i9E8NK1MNKY?si=G1q5RQ9WXnUaV2jG">Vídeo pitch</a>
+> <a href="">Vídeo pitch</a>
 ---
 
 ## ⚙️ Tecnologias Utilizadas
@@ -25,22 +30,27 @@ Projeto de **Visão Computacional** desenvolvido com **Roboflow**, **Python** e 
 - Roboflow 
 ```
 
-### 1. Clone o repositório
+### 1 - Clone o repositório
 ```text
 git clone https://github.com/Irissuu/challenge_iot.git
 ```
 
-### 2. Instale as dependências
+### 2 - Instale as dependências
 ```text
 pip install ultralytics opencv-python
 ```
 
-### 3. Rode o projeto
+### 3 - Rode o projeto para detectar vagas
 ```text
-python detectar_vagas.py
+python elysia_estacionamento.py
 ```
 
-### 4. Encerrar
+### 3.1 - Rode o projeto para detectar motos
+```text
+python elysia_motos.py
+```
+
+### 4 - Encerrar
 ```text
 Pressione Q para encerrar a exibição do vídeo
 ```
