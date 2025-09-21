@@ -1,12 +1,13 @@
-ElysiaAPI 🚗🏍️
+# ElysiaAPI 🚗🏍️
 
 Projeto de Visão Computacional desenvolvido com Roboflow, Python e YOLOv8.
-O sistema possui dois modelos de detecção:
 
+O sistema possui dois modelos de detecção:
 - Vagas ocupadas e vagas livres → baseado em um vídeo simulado com visão aérea de estacionamento.
 - Motos → identificação automática de motocicletas em vídeos, permitindo contabilizar e monitorar a ocupação do pátio.
 
 Este protótipo serve como uma prova de conceito para aprimorar o controle e monitoramento de estacionamentos e pátios, ajudando na gestão inteligente das vagas e dos veículos.
+
 ---
 
 ## 👥 Integrantes
