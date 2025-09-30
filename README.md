@@ -19,7 +19,7 @@ Este protótipo serve como uma prova de conceito para aprimorar o controle e mon
 
 ## 🎬 Vídeo
 
-> <a href="">Vídeo pitch</a>
+> <a href="https://youtu.be/SA1OJPfUA78?si=qyKKehPVyFEFiIsz">Vídeo pitch</a>
 ---
 
 ## ⚙️ Tecnologias Utilizadas
