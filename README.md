@@ -33,7 +33,7 @@ Este protótipo serve como uma prova de conceito para aprimorar o controle e mon
 
 ### 1 - Clone o repositório
 ```text
-git clone https://github.com/Irissuu/challenge_iot.git
+git clone https://github.com/Irissuu/Elysia_iot.git
 ```
 
 ### 2 - Instale as dependências
