@@ -1,4 +1,4 @@
-# ElysiaAPI 🚗🏍️
+# ElysiaAPI  <img src="https://github.com/user-attachments/assets/bc6d687c-dd26-4bcd-bcbf-71a8a5681bc3" width="25"/>
 
 Projeto de Visão Computacional desenvolvido com Roboflow, Python e YOLOv8.
 
@@ -55,6 +55,18 @@ python elysia_motos.py
 ```text
 Pressione Q para encerrar a exibição do vídeo
 ```
+
+## 📅 Resultados parciais
+### ▸ Detecção de vagas
+<img width="1904" height="1048" alt="image" src="https://github.com/user-attachments/assets/3f948121-c852-4dc7-9c5b-769bbd6b5b64" />
+
+### ▸ Detecção de Motos
+<img width="1909" height="1042" alt="image" src="https://github.com/user-attachments/assets/bd96121b-4156-462b-90eb-7cfd5317feed" />
+
+<img width="1277" height="711" alt="image" src="https://github.com/user-attachments/assets/318dcb84-870b-4760-ad9e-07060d66cfab" />
+
+
+
 
 
 
