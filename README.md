@@ -31,6 +31,8 @@ Este protótipo serve como uma prova de conceito para aprimorar o controle e mon
 - Roboflow 
 ```
 
+---
+
 ### 1 - Clone o repositório
 ```text
 git clone https://github.com/Irissuu/Elysia_iot.git
@@ -55,6 +57,7 @@ python elysia_motos.py
 ```text
 Pressione Q para encerrar a exibição do vídeo
 ```
+---
 
 ## 📅 Resultados parciais
 ### ▸ Detecção de vagas
