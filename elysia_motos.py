@@ -3,7 +3,7 @@ import cv2
 from db_oracle import log_event  
 
 WEIGHTS = "weights/motos_best.pt"   
-VIDEO   = "motos2.mp4"              
+VIDEO   = "motos.mp4"              
 
 CONF_TH = 0.25
 IOU_TH  = 0.5
