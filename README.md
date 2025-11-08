@@ -40,7 +40,7 @@ git clone https://github.com/Irissuu/Elysia_iot.git
 
 ### 2 - Instale as dependências
 ```text
-pip install ultralytics opencv-python
+pip install ultralytics opencv-python oracledb
 ```
 
 ### 3 - Rode o projeto para detectar vagas
